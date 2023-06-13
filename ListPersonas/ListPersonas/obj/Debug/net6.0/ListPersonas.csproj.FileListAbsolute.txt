@@ -1,0 +1,15 @@
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\bin\Debug\net6.0\ListPersonas.exe
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\bin\Debug\net6.0\ListPersonas.deps.json
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\bin\Debug\net6.0\ListPersonas.runtimeconfig.json
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\bin\Debug\net6.0\ListPersonas.dll
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\bin\Debug\net6.0\ListPersonas.pdb
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\obj\Debug\net6.0\ListPersonas.csproj.AssemblyReference.cache
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\obj\Debug\net6.0\ListPersonas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\obj\Debug\net6.0\ListPersonas.AssemblyInfoInputs.cache
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\obj\Debug\net6.0\ListPersonas.AssemblyInfo.cs
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\obj\Debug\net6.0\ListPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\obj\Debug\net6.0\ListPersonas.dll
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\obj\Debug\net6.0\refint\ListPersonas.dll
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\obj\Debug\net6.0\ListPersonas.pdb
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\obj\Debug\net6.0\ListPersonas.genruntimeconfig.cache
+C:\Users\Natalia Garcia\source\repos\ListPersonas\ListPersonas\obj\Debug\net6.0\ref\ListPersonas.dll
